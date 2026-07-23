@@ -19,4 +19,4 @@ This project was created to practice Python basics, including:
 - 🧮 Arithmetic Operators
 
 ## 🚀 Author
-Created by MxCodes 💙
+Created by MGPcodes 💙
